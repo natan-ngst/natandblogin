@@ -28,6 +28,11 @@ namespace ConnectDB
             InitializeComponent();
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void btnLogim_Click(object sender, EventArgs e)
         {
             try
